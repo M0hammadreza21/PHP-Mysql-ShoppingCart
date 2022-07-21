@@ -1,0 +1,2 @@
+[24-Feb-2022 14:50:54 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/mhammad1/api.m0hammadreza.ir/ShoppingCart/products.php on line 14
+[24-Feb-2022 14:57:18 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/mhammad1/api.m0hammadreza.ir/ShoppingCart/products.php on line 14
